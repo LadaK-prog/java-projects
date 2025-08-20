@@ -23,8 +23,6 @@ A console application that lets users manage a car dealership. Users can:
 ### 3 Book Search 
 
 A simple console application that demonstrates **linear search** and **binary search** on a list of books.
-
-## Features
 - Creates a list of books with an `id` and a `name`
 - Searches for a book by `id`
 - Compares the performance of linear vs. binary search
